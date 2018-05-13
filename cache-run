@@ -1,0 +1,8 @@
+
+[cache-run]
+rw=write
+ioengine=sync
+direct=0
+invalidate=0
+size=200MB
+filename=200Mfile.txt
